@@ -1,7 +1,7 @@
 <div align="center">
-<img width="2928" height="230" alt="Celestial Shiled" src="https://github.com/user-attachments/assets/8dea1c9a-c04a-4a09-ba1e-797bf6c0965c" />
 
 # 🛡️ Celestial Shield AI
+<img width="2928" height="230" alt="Celestial Shiled" src="https://github.com/user-attachments/assets/8dea1c9a-c04a-4a09-ba1e-797bf6c0965c" />
 ### Machine Learning–Powered Phishing & Smishing Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
