@@ -2,6 +2,7 @@
 
 # 🛡️ Celestial Shield AI
 <img width="2928" height="230" alt="Celestial Shiled" src="https://github.com/user-attachments/assets/8dea1c9a-c04a-4a09-ba1e-797bf6c0965c" />
+
 ### Machine Learning–Powered Phishing & Smishing Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -239,11 +240,11 @@ python main.py
 
 ## 🔭 Limitations & Future Work
 
-- **Dataset generalization** — performance depends on the diversity of the training data; novel or region-specific phishing patterns may be underrepresented.
-- **Language coverage** — the current model is trained primarily on English-language text.
-- **Model complexity** — Logistic Regression was chosen for speed and interpretability; future iterations could explore transformer-based models for higher accuracy at the cost of resource usage.
-- **Deployment scope** — currently a desktop application; a browser extension or mobile companion app would extend real-world reach.
-- **Batch processing** — currently experimental, with full integration planned for a future release.
+- **Dataset generalization** - performance depends on the diversity of the training data; novel or region-specific phishing patterns may be underrepresented.
+- **Language coverage** - the current model is trained primarily on English-language text.
+- **Model complexity** - Logistic Regression was chosen for speed and interpretability; future iterations could explore transformer-based models for higher accuracy at the cost of resource usage.
+- **Deployment scope** - currently a desktop application; a browser extension or mobile companion app would extend real-world reach.
+- **Batch processing** - currently experimental, with full integration planned for a future release.
 
 ## 🎓 Academic Context
 
