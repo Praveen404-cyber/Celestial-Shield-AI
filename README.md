@@ -87,41 +87,49 @@ Phishing and smishing attacks continue to succeed largely because they exploit *
 **Main Interface**
 
 <img width="1917" height="1030" alt="Dashboard" src="https://github.com/user-attachments/assets/4955e1fb-50e5-41d3-8dc7-343127e79ef8" />
+
 > The split-panel dashboard separates message input from classification results and security advisories for maximum readability.
 
 **High Risk — Smishing Detected (Dark Mode)**
 
 <img width="1918" height="1031" alt="Smishing Detection" src="https://github.com/user-attachments/assets/ba8ef0e5-a116-4b65-98ce-7e3ffe312576" />
+
 > A confirmed smishing attempt, flagged with a red confidence bar and an immediate "DO NOT" advisory.
 
 **High Risk — Phishing Detected (Dark Mode)**
 
 <img width="1919" height="1030" alt="Phishing Detection" src="https://github.com/user-attachments/assets/618c1b49-c7df-4185-9659-47f293d78bd3" />
+
 > A confirmed phishing attempt, with identified suspicious URLs and keywords surfaced alongside the verdict.
 
 **Medium Risk — Suspicious**
 
 <img width="1916" height="1031" alt="Suspicious Message" src="https://github.com/user-attachments/assets/4ab7e58e-e920-4ec2-9976-fad4da37430f" />
+
 > A borderline message assigned a Medium risk level, prompting the user to verify the source before acting.
 
 **Low Risk — Safe**
 
 <img width="1917" height="1031" alt="Safe Message" src="https://github.com/user-attachments/assets/9fd0e7c1-6ab9-49df-9806-234c08180ac6" />
+
 > A legitimate message correctly classified as Low risk, with no strong threat indicators found.
 
 **Batch Processing**
 
 <img width="1918" height="1031" alt="Batch Processing" src="https://github.com/user-attachments/assets/01ff3f38-45cd-41a7-8ab4-5dff6432b39c" />
+
 > Experimental multi-message analysis for scanning several inputs in one pass.
 
 **Statistics Dashboard**
 
 <img width="1915" height="1027" alt="Statistics" src="https://github.com/user-attachments/assets/ad58851d-539d-4919-90e6-6f263e6a46fd" />
+
 > Real-time session statistics showing model details and a breakdown of safe vs. malicious scans.
 
 **Report Generation**
 
 <img width="665" height="613" alt="Report Generation" src="https://github.com/user-attachments/assets/74fd4513-36dc-40a3-9579-a9f74a2ae12d" />
+
 > A structured, timestamped `.txt` report including the classification result and relevant advisory notices.
 
 ## 🛠️ Tech Stack
